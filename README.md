@@ -1,4 +1,4 @@
-### I'm Pedro Duarte 👋
+## I'm Pedro Duarte 👋
 
 <!--
 **PedroDuarte9/PedroDuarte9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
