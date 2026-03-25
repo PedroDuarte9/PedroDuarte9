@@ -20,7 +20,7 @@ I'm great at problem-solving and have 4 years of experience as a software engine
 
 #### 🛠️ Technologies and Tools
 Languages & Frameworks
-- Java | JavaScript | TypeScript | C | Node.js | Spring Boot | React
+- Java | JavaScript | TypeScript | C | Node.js | Spring Boot | React | Angular
 
 Databases & Cloud
 - SQLServer | MongoDB | AWS | Docker
